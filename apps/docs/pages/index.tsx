@@ -1,9 +1,9 @@
 import { Button, Header } from "ui";
 
-export default function Page(): JSX.Element {
+export default function Index(): JSX.Element {
   return (
     <>
-      <Header text="Web" />
+      <Header text="Docs" />
       <Button />
     </>
   );
